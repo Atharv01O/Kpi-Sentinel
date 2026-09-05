@@ -1,0 +1,12 @@
+# data
+data/raw/olist/*.csv
+data/warehouse.duckdb
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store

@@ -1,0 +1,544 @@
+order_id,note_date,investigated_by,root_cause,resolution_status
+ebd33d4995d183ba4c6ed1e273816aa7,2018-09-03,Mario,Seller shipped late (missed shipping_limit_date),resolved
+a0d699e2e7598ef4a849c8089f3c1277,2018-01-04,Edward,Weather-related transit delay,escalated_to_seller
+a7da4c5d1aa10f5bd43694601bea7057,2017-12-04,Debra,No root cause identified - isolated incident,escalated_to_seller
+a4ca2ef2db84bd36005b60249c9600d7,2018-07-21,Charles,Customs/regional holiday delay,resolved
+180c9fcf056bcb72bbf79029ddfa0132,2018-05-13,Amanda,Warehouse stock discrepancy at seller,resolved
+9696c06c5b4dacf79ad4fc897b1aa93b,2018-08-21,Michael,Warehouse stock discrepancy at seller,resolved
+12e5cfe0e4716b59afb0e0f4a3bd6570,2018-04-06,Brian,Address/zip code issue caused redelivery,resolved
+b024fdd2d489610af375a0ae22124264,2018-04-17,William,Warehouse stock discrepancy at seller,resolved
+dc17a6461db14f3625728b10493ef332,2018-07-20,Benjamin,Customs/regional holiday delay,resolved
+a300439b291baea25827908be1277e29,2018-03-27,Ryan,Address/zip code issue caused redelivery,resolved
+f96b5c312ad850920b6aed06ee8881ad,2017-12-24,Chad,Weather-related transit delay,escalated_to_seller
+837b75362f8a7c08c85182dfd16cb72d,2018-08-20,Christopher,Weather-related transit delay,unresolved
+974fd219891927f0d01b357f4400a622,2018-03-29,Roger,Customs/regional holiday delay,escalated_to_seller
+f67026e78b00cb23af0f2ccdb5ee8245,2018-06-08,Margaret,No root cause identified - isolated incident,resolved
+316cbf18dca6cfe813ed375d15be4ffe,2017-05-15,David,Seller shipped late (missed shipping_limit_date),resolved
+22a0afb00de21962e96bef9ec5b51223,2018-08-14,Jeffrey,Customs/regional holiday delay,resolved
+af3c537a8ea64ed0f5877a4ecce0c794,2018-03-06,Courtney,Customs/regional holiday delay,resolved
+52550cee1dda83b2c06260891897dc60,2018-08-27,Stacie,Customs/regional holiday delay,resolved
+4f2a29346d25613d2e553a8d6381b006,2018-04-01,Barbara,Seller shipped late (missed shipping_limit_date),resolved
+6e269660f01d35b9a19cc6221711347d,2017-06-12,Randy,Warehouse stock discrepancy at seller,resolved
+947e9c6bfd83a06953c420ef92d3da6e,2018-08-24,Theresa,Weather-related transit delay,unresolved
+81b7c7bbc8ec003eeb67d87441a6a148,2018-09-02,Brandon,Address/zip code issue caused redelivery,resolved
+66bd5293331e02863f2054bf659ed2be,2018-04-01,Michele,No root cause identified - isolated incident,unresolved
+13d6f87da8ba3d0feb95e58ab304a9dd,2018-06-03,Keith,Carrier delay - regional logistics disruption,resolved
+28136596c0ceb5c43000c1776348b72b,2018-03-25,Drew,Customs/regional holiday delay,escalated_to_seller
+7c94a691cda1b50778849a3e52d45dfc,2017-12-14,David,Carrier delay - regional logistics disruption,resolved
+64439b9234594e291aa9a30c226f257e,2018-07-14,Kyle,Customs/regional holiday delay,escalated_to_seller
+47a59571eaf621fe16f74c18e25fa329,2018-03-11,Lisa,Address/zip code issue caused redelivery,resolved
+8b4fc455b9a8cc1559dca8dd2d392ddd,2018-01-30,Henry,Address/zip code issue caused redelivery,escalated_to_seller
+14e02ed9bb6ea11904967b279f41df37,2018-01-22,Bonnie,Carrier delay - regional logistics disruption,resolved
+6d634ac1e01a120c22e27efcba0a97dd,2018-05-21,Danielle,Address/zip code issue caused redelivery,resolved
+094fe0ffb99d42aba8ca2a6b65a8921e,2018-04-03,Nathan,Carrier delay - regional logistics disruption,resolved
+bf294e9fc4071077ff5ffbeb803602fd,2018-08-15,Amy,Weather-related transit delay,resolved
+b1f1b53eff2bcb85d584f05835dd8115,2018-08-21,Bryan,Address/zip code issue caused redelivery,resolved
+05b7ab671d6b51e0b44ea73a54d9f739,2018-02-07,Brian,Customs/regional holiday delay,unresolved
+84c1ef4f5624b36f93862b353cd6fef0,2017-11-17,Jamie,Address/zip code issue caused redelivery,escalated_to_seller
+b11e6ce66d797ee9120c9bfbd376ef01,2018-05-05,Erin,No root cause identified - isolated incident,resolved
+07528311766b5aa54d193747c66663df,2018-03-12,Ronald,Carrier delay - regional logistics disruption,resolved
+e72e5c3d6b68cd8c81559186a0ebc58f,2017-12-29,Lee,Weather-related transit delay,resolved
+e7e4ea34d176d9efab560f0db16925fb,2017-12-12,Brenda,Address/zip code issue caused redelivery,escalated_to_seller
+7bec0ef2b65e6c75fc082d823d0a59ca,2018-02-05,Shawn,Address/zip code issue caused redelivery,resolved
+d5c99387bb0975f7fd307eab0b02bd63,2018-03-30,Kevin,No root cause identified - isolated incident,escalated_to_seller
+0312ecf90786def87f98aa19e0e0ce63,2017-05-15,Laura,No root cause identified - isolated incident,escalated_to_seller
+5347a99b50c4d33d2959dcce4e19641c,2018-07-11,Holly,Warehouse stock discrepancy at seller,resolved
+4feee8fcafe1dcf0006704a808e7e02c,2018-05-06,John,Carrier delay - regional logistics disruption,escalated_to_seller
+c9653cca1e27f0816402332712a4c87f,2017-12-13,Autumn,Warehouse stock discrepancy at seller,resolved
+b1d94cc304c782edf6cef462ee68c90c,2017-10-07,Alicia,No root cause identified - isolated incident,resolved
+c1ecc15bc30548ecad160437f07df801,2018-05-15,Nancy,Carrier delay - regional logistics disruption,unresolved
+21dc00cebbf91043aad476465c49c42f,2018-05-25,Jessica,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+4df371955120c03af473cf4160cb6c65,2018-09-04,Keith,Address/zip code issue caused redelivery,resolved
+45e4d1d16d017409456807846ea959e9,2018-01-15,Tina,Address/zip code issue caused redelivery,resolved
+ba1d49ebc63a5776178f2b7ae10f0fae,2017-12-26,David,Weather-related transit delay,resolved
+2982a4a9b9ff0bf9a4f5b88a45a6fa67,2017-03-20,Robert,Customs/regional holiday delay,unresolved
+b2673ed6360dc341a4728dbd632f935b,2018-07-13,Katherine,Carrier delay - regional logistics disruption,resolved
+4dcff73972e49b77fcb010749fb5433e,2018-03-01,Edwin,Seller shipped late (missed shipping_limit_date),resolved
+cdcdd974adb1606df89687f10cf130eb,2017-12-07,Tracy,Warehouse stock discrepancy at seller,escalated_to_seller
+50bb0c134ee3365dd06e13da6cda15fe,2018-01-20,Benjamin,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+07e8c8c7545c3cf6386eaf464b1e8365,2018-08-23,Elizabeth,No root cause identified - isolated incident,escalated_to_seller
+dd6ce2ca4b4f2f7b5698be76252d4c8e,2017-06-30,Kathy,Seller shipped late (missed shipping_limit_date),unresolved
+afc652a59f20b96fbf7c8e5bb1a6c1f1,2018-03-09,Ashley,Seller shipped late (missed shipping_limit_date),resolved
+80a65b64ff5b2a3d831d8764ec4b17f0,2017-12-04,Nancy,Address/zip code issue caused redelivery,unresolved
+6cdda2ce8bf249e40f1a4a75b9fdef0d,2018-08-27,Lee,Address/zip code issue caused redelivery,resolved
+aa0bc25a48a3d53cc009df13ed116b23,2018-04-04,Heather,Address/zip code issue caused redelivery,unresolved
+936a199847ccb47438d3ae454d5e18d1,2018-02-13,Brooke,Carrier delay - regional logistics disruption,escalated_to_seller
+9450a19a745c16784964ea86003dc665,2018-08-23,Bethany,Customs/regional holiday delay,unresolved
+a7d5e53a5efe34103e6b5b67c497c2fa,2018-02-27,Stephen,Customs/regional holiday delay,resolved
+b8752fc264f1692031237bb715061cc4,2018-03-09,Mary,No root cause identified - isolated incident,resolved
+55101b36a58251926b6cbfdb540c0461,2018-06-02,Shirley,Address/zip code issue caused redelivery,unresolved
+79310e415e87a7c31dde5926215d3469,2017-07-03,Thomas,Seller shipped late (missed shipping_limit_date),unresolved
+fd607d0a02cb276bc764a15f80f0423f,2018-08-16,Elizabeth,Weather-related transit delay,resolved
+b302801106ed1f5eb6f08ccdae6fea99,2017-07-25,Bruce,Address/zip code issue caused redelivery,resolved
+dc32acbe8d41196887e5d7ac6c2972bd,2018-03-24,Jacqueline,Customs/regional holiday delay,escalated_to_seller
+2ebedf24a4ee36078226242023978247,2017-12-23,Deborah,Address/zip code issue caused redelivery,resolved
+43744ad15fef908c8dfcbd7fec0d786e,2017-12-05,Victoria,Carrier delay - regional logistics disruption,escalated_to_seller
+d60f3552bae079e5ca539727400d118e,2017-12-17,Lynn,Warehouse stock discrepancy at seller,escalated_to_seller
+d9d8b7f0a98d33f05df5fce9f376aad8,2017-06-07,Justin,Carrier delay - regional logistics disruption,escalated_to_seller
+58207f7c0efe1d999163cf9f30042830,2018-09-11,Paul,No root cause identified - isolated incident,escalated_to_seller
+241eaf5ff29c3e08e2efc61f6f87e44b,2018-08-21,Elizabeth,Seller shipped late (missed shipping_limit_date),resolved
+b44d57df8658ffbfb846852cee8d87d2,2017-12-17,Andrew,Seller shipped late (missed shipping_limit_date),resolved
+72ac5a7945d55c3fd45160f365353fae,2018-08-26,Steven,Weather-related transit delay,resolved
+17295d6651c53865e020aa846be5ce3f,2018-08-28,Gary,No root cause identified - isolated incident,escalated_to_seller
+203acfb176ad05fd52bc951bd747ad91,2017-11-27,Dave,Warehouse stock discrepancy at seller,resolved
+ff3f2d5b004f8051849318f201add7c9,2018-04-07,Brian,No root cause identified - isolated incident,resolved
+b02983703060845dbc7fe979ceaf2c3b,2017-04-05,Kayla,Warehouse stock discrepancy at seller,resolved
+b157fc555fff3a1fbb596921333cff16,2017-12-19,David,Weather-related transit delay,resolved
+0218bc1c672e0e92f10a6633ca1cc461,2018-03-16,John,Weather-related transit delay,resolved
+21986117cfddd42a35f894deadbe2f95,2017-05-25,Peter,Weather-related transit delay,escalated_to_seller
+2c19f031e843a243a60bdff55edc668e,2018-03-30,Monica,Carrier delay - regional logistics disruption,resolved
+59a6a4f84e0e583a39c2f395343d27af,2018-03-09,Christopher,Warehouse stock discrepancy at seller,unresolved
+88879beae0f0296595d49325ad667489,2017-06-19,Shane,Customs/regional holiday delay,resolved
+e6152cd6ca627fc4f0f5deddea24f7c2,2017-12-11,Andrea,No root cause identified - isolated incident,unresolved
+9ce8bab700f7de85a07a9ee7d4e18ea3,2018-08-06,Nicole,Carrier delay - regional logistics disruption,unresolved
+e8ef78a9ce417db856269e84091403f2,2018-05-29,Lori,Customs/regional holiday delay,resolved
+fab137488ea6654792ec4cac3000cee8,2018-08-19,Michelle,Weather-related transit delay,resolved
+a214ab5dc32ac17a484d2e0f95f8c90b,2018-08-21,Joshua,Warehouse stock discrepancy at seller,resolved
+e744792a1abc89d92d36e086697eaf97,2017-03-28,Robert,Seller shipped late (missed shipping_limit_date),resolved
+5d6e9993ecc20a59e637ce711858d081,2017-02-06,Michael,Weather-related transit delay,resolved
+0a098ea7aca0cfbc728417697c86e807,2018-03-16,Nicole,Carrier delay - regional logistics disruption,resolved
+e192b63496e874f9ec02a62d97ac23be,2018-03-23,Susan,Weather-related transit delay,escalated_to_seller
+70a8d39e13049156f1ac16e59a18bf37,2018-01-31,Edward,Address/zip code issue caused redelivery,resolved
+d1594d3b636b86cf4ce22e2ca650a55c,2018-05-17,Gregory,Address/zip code issue caused redelivery,resolved
+e641c4c52bd0059576b2ed7d7acc2feb,2017-12-14,Jesse,Carrier delay - regional logistics disruption,resolved
+057e837e50171189a915cb17d4621e9f,2017-09-11,Jesus,Address/zip code issue caused redelivery,escalated_to_seller
+ebb0572173c1ff1b9b126bf4d2ed9114,2018-03-17,Todd,Carrier delay - regional logistics disruption,resolved
+8d71c4f38d584ca7e192f7e02dd592f1,2018-08-27,Brianna,Carrier delay - regional logistics disruption,resolved
+565a7bc14e1f825b163c6a51d74f4206,2018-08-27,Jose,Seller shipped late (missed shipping_limit_date),resolved
+5c7fb4191236c0b1404e9e97af9691c9,2017-10-21,Adam,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+5a8a4dc28b16fb90469ad749f9535773,2018-03-25,Robert,Address/zip code issue caused redelivery,resolved
+f12da93bfc1ee01030cea1345a142abb,2017-11-27,Mike,Warehouse stock discrepancy at seller,escalated_to_seller
+200cb3a47d4f37e4c7a76abf51fd7ef1,2017-09-05,Ashley,Seller shipped late (missed shipping_limit_date),resolved
+ed6276997e362e1ac151005a739fd684,2018-02-05,Stephanie,Customs/regional holiday delay,resolved
+937eff3061f712451d82303708399122,2018-03-07,Hannah,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+b1f9095a10dfd9fcf032d74f71348e44,2018-05-22,Zachary,Seller shipped late (missed shipping_limit_date),resolved
+a027b795d174ac4c8c7fd853838b5744,2018-01-05,Christina,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+d9bc6265a0fd5fd74e4c1db0ee72d753,2017-07-18,Erica,Weather-related transit delay,resolved
+28bbae6599b09d39ca406b747b6632b1,2017-12-15,Brian,Customs/regional holiday delay,escalated_to_seller
+643e340c6c562d108526c36d5a94c027,2017-12-20,Rachel,Weather-related transit delay,resolved
+2301c13c9dc02b9c8d61919206e15e1c,2017-07-11,Kimberly,Seller shipped late (missed shipping_limit_date),resolved
+93aa3771306828f17309cce989a90e5f,2018-03-16,Nancy,Seller shipped late (missed shipping_limit_date),unresolved
+c429654419aacfe84ec52dd4c45f064d,2018-06-07,Lauren,Carrier delay - regional logistics disruption,resolved
+3a02f2abd527b2a2b0504aa48bc1b7c2,2018-03-04,Philip,No root cause identified - isolated incident,resolved
+262ba6c85fd3c9c589bac6fa7d113cca,2018-03-18,Raymond,Customs/regional holiday delay,resolved
+8256266a3e79c5c11593977b92fe7b1a,2018-01-26,Dale,Carrier delay - regional logistics disruption,resolved
+bf6ae1909b2e970bb1c4f1119b324b64,2018-02-14,Cynthia,Carrier delay - regional logistics disruption,resolved
+cfbf015b7e4efd77c1a2ee7e337aea60,2017-11-25,Bryan,Carrier delay - regional logistics disruption,unresolved
+24bb40ee9b9b6fc1cf2392a93aff4f6e,2018-07-22,Carlos,Customs/regional holiday delay,resolved
+4f88a7f264d48920c4f0762d160212ca,2018-08-16,Jason,No root cause identified - isolated incident,escalated_to_seller
+51e3f832063f79a142e48f488f4e880b,2017-11-30,Francis,Carrier delay - regional logistics disruption,escalated_to_seller
+aa2e81559d88cca16ac122e7627078c8,2017-04-07,Matthew,Address/zip code issue caused redelivery,unresolved
+c1efc16c61c46cc2eff17d0ea6202aaf,2017-12-03,Brian,Seller shipped late (missed shipping_limit_date),resolved
+6a8068cb2233e4e303e48efa7628d7ce,2018-03-11,Aaron,Weather-related transit delay,escalated_to_seller
+167d05678f810589a854d30460ae62f0,2018-02-08,Edward,Weather-related transit delay,escalated_to_seller
+faa3c806c150cf6f037882a8c4db259d,2017-12-06,Craig,No root cause identified - isolated incident,escalated_to_seller
+0c5f4de2e1c08a6da891feaafcf35d1e,2018-05-15,Michael,Customs/regional holiday delay,resolved
+e9f3aab944b658f5f0b241fca193f3b6,2018-04-10,Anthony,Carrier delay - regional logistics disruption,resolved
+83278a865f8f9c152f76597d22446aa2,2017-08-30,Nancy,Seller shipped late (missed shipping_limit_date),resolved
+eb54c63c566516c6052fa30db3558c17,2018-03-27,Christina,Address/zip code issue caused redelivery,resolved
+9dec900f8c20ecbaefa8e27242060a67,2018-03-13,Edgar,Address/zip code issue caused redelivery,unresolved
+faf18cecda32bcf685059fb419574421,2018-02-19,Johnny,Address/zip code issue caused redelivery,resolved
+20ece825fd1a3714c240d58a96df35ea,2018-01-01,Michael,Address/zip code issue caused redelivery,resolved
+bfe378d529206e45ce2ae4095aba264b,2018-02-23,Michael,No root cause identified - isolated incident,resolved
+2dee1b58f6f3c724427ad545adf6d5e4,2018-03-20,David,No root cause identified - isolated incident,resolved
+02a0f7101947ebb4e6d2ec4c1c929bbb,2017-12-22,Melinda,Customs/regional holiday delay,escalated_to_seller
+d6235477014458ade86158040370fca8,2018-03-20,Victoria,No root cause identified - isolated incident,resolved
+cb599c234fc71be7c137179b6d473a30,2018-02-17,Steven,No root cause identified - isolated incident,escalated_to_seller
+97b22dcad89f4916db427544e655d1b2,2017-05-24,Timothy,Customs/regional holiday delay,resolved
+6bc3c767bc73e1e4e1ba0670c3d90397,2018-03-03,Christopher,No root cause identified - isolated incident,resolved
+b57278e94a17f53f5a91bb0aab49c397,2017-03-01,Curtis,Warehouse stock discrepancy at seller,resolved
+b3514348dbf9b6aa45556bb03f2728a9,2018-04-20,Matthew,No root cause identified - isolated incident,resolved
+dd013805a824a02edd2301fd442a1c1b,2017-12-20,Joseph,Address/zip code issue caused redelivery,unresolved
+abfacef50a27d7cea3f2c7aa60c08245,2017-10-06,Maria,Warehouse stock discrepancy at seller,resolved
+1439b7c45e6b3497e1d86582382ec326,2018-03-16,Evan,No root cause identified - isolated incident,resolved
+54a8822ca8bfc9d79e1154a2e20221e0,2017-12-08,Andrew,Customs/regional holiday delay,resolved
+edc39c747837ab7258f382372e798824,2018-03-23,Stephanie,Carrier delay - regional logistics disruption,escalated_to_seller
+41277f3a6a9033447c24bd3e1ff04c86,2017-08-06,Allison,Warehouse stock discrepancy at seller,resolved
+6ea2f835b4556291ffdc53fa0b3b95e8,2017-12-04,Dwayne,Customs/regional holiday delay,resolved
+23fd789ce06f3c54f212b3b9d358579f,2018-03-08,Amy,Address/zip code issue caused redelivery,unresolved
+0a472c47d928bf4cd8b6a7a30345eeb7,2018-09-06,Anthony,Seller shipped late (missed shipping_limit_date),resolved
+db22f279752a5ef41428982b9a7ba8c3,2017-12-08,Allison,Customs/regional holiday delay,escalated_to_seller
+a4765431be6613d760a9cf57da14b9ce,2017-11-06,Tiffany,Seller shipped late (missed shipping_limit_date),resolved
+21403027f4ab40334345e1c8626a6a3c,2017-12-13,Michelle,Customs/regional holiday delay,unresolved
+f747f82cd6f4094876b1df81c7a50145,2017-03-06,Heather,Weather-related transit delay,unresolved
+e3f2faf5604308ede614257aeb86ccf8,2018-05-24,Jose,No root cause identified - isolated incident,resolved
+e5476d1c0a9bcc909b2f4bc24559bdde,2017-02-27,Michael,Address/zip code issue caused redelivery,unresolved
+5dc70acab84ac4fd4ffb73d38c63cc94,2018-03-17,Gary,Address/zip code issue caused redelivery,resolved
+01bc343311e5b8090b64d6ab287a5cf0,2018-03-07,Kelsey,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+aaa4688b6d2e4d20b2ffc6d97723ea63,2018-03-14,Amanda,Seller shipped late (missed shipping_limit_date),resolved
+14476cba4d3587039214504002fd09ab,2017-11-07,Kimberly,Seller shipped late (missed shipping_limit_date),resolved
+1436cba3294812a22fe0868db7581b68,2018-01-04,Mark,Seller shipped late (missed shipping_limit_date),resolved
+60f0f4f310904e1d0c7d41224fcb45d6,2017-08-09,Jeffrey,Customs/regional holiday delay,resolved
+2974064c396f0496d1eba4b3c49cd772,2017-09-24,Lisa,Warehouse stock discrepancy at seller,unresolved
+c344fe0fa6569ff29fb0c6b832ef199c,2017-12-09,Traci,Weather-related transit delay,resolved
+119d388c6a2ceb03620dcd86c45f65a5,2017-12-10,Melissa,Customs/regional holiday delay,resolved
+a757a56d0e861a38647169019a35ef8d,2017-11-28,Linda,Carrier delay - regional logistics disruption,escalated_to_seller
+450cb96c63e1e5b49d34f223f67976d2,2018-06-02,Loretta,No root cause identified - isolated incident,escalated_to_seller
+66b7aa4a53c5c138ffe0aa7ac74dbea1,2017-11-11,Jodi,Carrier delay - regional logistics disruption,resolved
+5cf1acf2432e3672334e331caf413208,2018-02-28,Jeremy,Carrier delay - regional logistics disruption,resolved
+c0341f028a07cb3196e3bf4e850066bb,2017-04-03,Zachary,Warehouse stock discrepancy at seller,unresolved
+a8bbfc92aa07f8d418960d1afcaad4c2,2018-05-28,Michael,Carrier delay - regional logistics disruption,resolved
+0bafeaa6d78ca1e9b198fe9a6d645306,2018-05-07,Anthony,No root cause identified - isolated incident,resolved
+bcbca462c055855afe0cb0df7b6a09f9,2018-03-31,Anthony,Warehouse stock discrepancy at seller,resolved
+07220c39eb26068368e675009154d635,2018-03-23,Joshua,Carrier delay - regional logistics disruption,unresolved
+2af73a7fe3cf7bb2902df1ea4e5d7fad,2018-03-24,Jonathon,Address/zip code issue caused redelivery,resolved
+b239d7a386db8ffed15c72578e9d3cac,2017-08-24,Heather,Address/zip code issue caused redelivery,resolved
+be754126110440ba89a5456475333453,2018-03-11,Sue,Carrier delay - regional logistics disruption,resolved
+a10ad0776eab0418fa809d168e1dbb8c,2018-03-12,Seth,Carrier delay - regional logistics disruption,unresolved
+84aa61a900410cfe26b57337d376a1ae,2018-09-10,Sharon,Seller shipped late (missed shipping_limit_date),resolved
+a340559e00903f5d714ce736af183cbd,2018-04-12,Vanessa,Customs/regional holiday delay,resolved
+70e1e65e23050b71f1357ebf72506b73,2018-01-31,Stephanie,Warehouse stock discrepancy at seller,resolved
+0fc2805c054f060f9b7db454927b5024,2018-02-19,Michael,Seller shipped late (missed shipping_limit_date),resolved
+98cdb0b0199939368746cb2beba58efe,2018-02-10,Jeffrey,Warehouse stock discrepancy at seller,escalated_to_seller
+a799d21b017742b6c8cac13998fd6ee2,2018-02-09,Jeremy,Customs/regional holiday delay,resolved
+12665915ce815ae60a756854e522fddf,2018-03-24,James,Weather-related transit delay,unresolved
+e55fa3385fa77f6be6a0041c5daf2fb6,2018-08-10,James,Weather-related transit delay,unresolved
+56fd7f1e63ea8177e02f64f5077ee7f3,2017-02-19,Claire,Weather-related transit delay,resolved
+da0686c22c00de36d95422798bdd9cde,2017-12-28,Rachel,Weather-related transit delay,resolved
+c83bfcbbc1e49ea80f7a77732efa3d48,2018-07-15,Mary,Address/zip code issue caused redelivery,resolved
+b7f8b0ec8242c32730504ca558390211,2018-03-20,Timothy,Carrier delay - regional logistics disruption,resolved
+3a77992e9af4cff3d2b7bffa8f0597bd,2018-03-07,Denise,Address/zip code issue caused redelivery,escalated_to_seller
+53ec6e6945a5e805d1d8a58329b8e693,2018-03-10,Lauren,Carrier delay - regional logistics disruption,resolved
+fe5fbb5c1e50e83aa30c02b68ff9faef,2018-04-22,Christopher,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+c1812e7a79c6b129af4128c0474ea917,2018-03-25,Donna,Seller shipped late (missed shipping_limit_date),resolved
+12581c5de9b60bf327002c906dd03e17,2018-06-08,Renee,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+94e99970c46ac11ef94327aa996b30de,2017-10-11,Kimberly,No root cause identified - isolated incident,resolved
+7c086fb9c0a3c91487ff8c4395bd64b6,2018-04-05,Karen,Warehouse stock discrepancy at seller,resolved
+4ef685e6dcade551ce14cb3783ca664d,2018-02-11,Timothy,No root cause identified - isolated incident,resolved
+528588e5accc2b1c808576e68fd1d46c,2017-12-03,Gregory,Carrier delay - regional logistics disruption,resolved
+ecf9330db0f11c5086969ed6c7468d4a,2018-03-24,Kristina,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+0c7e21efc59802d22c10a8fd7d3501ab,2018-08-23,Marvin,Warehouse stock discrepancy at seller,unresolved
+7311b63eb976756358a62bb49eac4c30,2017-12-10,Lauren,Weather-related transit delay,unresolved
+21dfb91aa3e9fa351ae6f12da1c53fb9,2017-02-14,Teresa,Seller shipped late (missed shipping_limit_date),resolved
+73f41c25f81a3fc68fefa0cdb0c73d97,2018-03-31,Randy,Seller shipped late (missed shipping_limit_date),unresolved
+18e3a35aeb0cef53ac06a61f65c1f76b,2018-02-23,Richard,Carrier delay - regional logistics disruption,resolved
+24226bb79f1be40c60396cd457ada96e,2018-06-06,Stacey,Customs/regional holiday delay,resolved
+8206925809548e33715f60acff73aff8,2018-03-11,Jenny,Seller shipped late (missed shipping_limit_date),resolved
+af6a9f579c74afeefcd5f32733c11a32,2018-04-12,George,Address/zip code issue caused redelivery,resolved
+cecff548587c9609f2223971989c94c0,2018-04-09,David,Weather-related transit delay,escalated_to_seller
+6cd6b68f7a9798a25f718d069608419f,2017-12-08,Edward,Weather-related transit delay,unresolved
+23847650c6dde17cb17a2b180af209bd,2017-11-28,Rebecca,Weather-related transit delay,resolved
+a6048ee9317b5bf604ae61505227e407,2018-04-07,Lindsay,Customs/regional holiday delay,unresolved
+afbe79b5d924f62c10998a3c046ba7a7,2018-05-26,Dustin,No root cause identified - isolated incident,escalated_to_seller
+688fb7e7c929bfa4711317fb51d8820c,2018-03-18,Margaret,Warehouse stock discrepancy at seller,resolved
+51520d3bdef580c2ffd3b8fea209172a,2018-08-12,Tina,Customs/regional holiday delay,unresolved
+60f57fe756bf90250589634133afea3a,2018-02-26,Diane,Customs/regional holiday delay,resolved
+9bd01f4522f8744273b5261450ee0c5e,2017-11-18,Michael,Seller shipped late (missed shipping_limit_date),resolved
+63b6bb683b45ebaf42d0979fae65ad35,2018-02-24,Amy,Carrier delay - regional logistics disruption,unresolved
+793d395a896de12a846ed4f345bce550,2017-09-30,David,Weather-related transit delay,resolved
+5627a31940ca40213ead4a6a71e7b386,2018-05-29,Alexis,Customs/regional holiday delay,unresolved
+fd7ad9fe2a5c9cf444bd25691f4900d9,2018-08-17,Tara,Warehouse stock discrepancy at seller,resolved
+a2dd87f10cd0b3cdb73c6ba52e333250,2017-11-05,Debra,Customs/regional holiday delay,resolved
+d91340e9348bc8b0e4971c128f2c0254,2017-11-02,Alisha,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+580c882a5805c78546ea65ec6d3690e4,2018-02-22,Sarah,Weather-related transit delay,resolved
+27a6ada08a4daaa908ef8f862441e486,2018-02-18,Ryan,Warehouse stock discrepancy at seller,escalated_to_seller
+4cccc0d35e7c7a0dc766ad3c4043e33e,2018-08-20,Monica,Carrier delay - regional logistics disruption,resolved
+586acfc7e057938293e006ece947648c,2018-04-24,Margaret,Customs/regional holiday delay,escalated_to_seller
+c60c1ff560443153d7f50771e5fe9b92,2018-03-06,Jason,Customs/regional holiday delay,unresolved
+cf34f0c3c6464f6cbca4e16b810f5553,2017-10-28,Johnathan,No root cause identified - isolated incident,resolved
+8040bd2eb4b6e7cfcda94f1ccdcc703d,2017-05-23,Kelly,Customs/regional holiday delay,resolved
+4992c33902c32884bbf438c7e9322703,2018-03-19,John,Seller shipped late (missed shipping_limit_date),resolved
+bb5b0d8f3e9c964760c674f2aa2ae0cf,2018-03-16,Brenda,Address/zip code issue caused redelivery,resolved
+c40c8f44fadbd73ec33576de59af7037,2017-03-20,Jordan,Warehouse stock discrepancy at seller,unresolved
+d90d49263be4b2c4af68184313640fa6,2017-12-24,Robert,Carrier delay - regional logistics disruption,resolved
+238652e39c5fdf89a8fd44776f532501,2018-08-01,David,Weather-related transit delay,resolved
+22230cb95aa16cf1615db1cf10a0ea2d,2017-12-19,Renee,Carrier delay - regional logistics disruption,resolved
+227e226c302f202f8fe0ac838846adf3,2017-12-27,Michael,Customs/regional holiday delay,resolved
+686c0ba20be3837a5041edbc39d3f9ae,2017-03-17,Stephen,No root cause identified - isolated incident,resolved
+566aa88269ebf1551f8e2da76e215e08,2018-04-24,Brandy,Weather-related transit delay,resolved
+dda2dbc7b1340a2c9f8743feb8cbc432,2018-08-12,Rebecca,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+0b398dbb3e7c81005f3c69b01488c4c9,2017-10-11,Robert,No root cause identified - isolated incident,resolved
+b30eea47fa98c4b4712937752378c0e5,2017-05-04,Samantha,Carrier delay - regional logistics disruption,resolved
+56203ab8c919f019d69bac51794e296d,2017-12-17,Walter,No root cause identified - isolated incident,resolved
+bdfb5638a80d0fa6ec030a921c695a5f,2018-03-12,Amanda,Address/zip code issue caused redelivery,unresolved
+29c5a7f7a7e0947fa6d28f355cd28c5f,2018-05-28,Alexandra,No root cause identified - isolated incident,escalated_to_seller
+555bdeeec0ae00faeb547748b9e58ec6,2017-12-03,Andrew,Address/zip code issue caused redelivery,unresolved
+2474b5060c1dfacbb46002aa2563f9bc,2017-12-16,Scott,Seller shipped late (missed shipping_limit_date),unresolved
+456abfc526bb8973d425ea0134a6e311,2018-05-07,Isaac,Warehouse stock discrepancy at seller,unresolved
+fcafab7fc942d51e9f45bfeeb5bb684d,2017-02-04,Adam,Address/zip code issue caused redelivery,resolved
+fb1eff538c7c7033fdb5a6a0a3edd456,2018-02-28,Lauren,Seller shipped late (missed shipping_limit_date),resolved
+1b2fd2d45589bc249ee9ae90fdb05a6b,2018-03-14,Gerald,Seller shipped late (missed shipping_limit_date),resolved
+d9d8694b11dccc4257dd55bd6744f0f1,2018-02-14,Thomas,Customs/regional holiday delay,resolved
+65475724044e5b94d968124fa141af0c,2018-02-12,Jessica,Carrier delay - regional logistics disruption,unresolved
+e86c9bfc5e5cce878c7d0c2419927cd7,2018-03-19,Angela,Weather-related transit delay,resolved
+569d43a54c364df5b367ab33e96eacf0,2017-11-19,Mark,Warehouse stock discrepancy at seller,unresolved
+32733fc014b67ef70fa6039dd8c6ba82,2017-09-22,April,Weather-related transit delay,resolved
+72aae4d8091260674fd5abd94479abc3,2018-04-15,Angela,Warehouse stock discrepancy at seller,escalated_to_seller
+e6dadbb941fc1ddd84fc8d2ef19b71c1,2018-02-21,Kristen,Address/zip code issue caused redelivery,escalated_to_seller
+395522d74b4f19e9d229bacaab803c99,2018-05-28,Daniel,Warehouse stock discrepancy at seller,resolved
+a7ccc4df2d363b2ba9037d1ef834a250,2018-03-08,Ann,Address/zip code issue caused redelivery,resolved
+2372e039a79fcd32009462cf86c2616f,2017-08-27,John,Seller shipped late (missed shipping_limit_date),resolved
+b062c88d0db22ff6a4e37c2df0f85333,2018-03-20,Joshua,Weather-related transit delay,resolved
+0fb0e71d92a103ce203e4b32be458d9b,2018-08-21,Kelsey,No root cause identified - isolated incident,unresolved
+21953f0f5d8d20ed590fcb9683be8b6d,2018-04-03,William,Address/zip code issue caused redelivery,unresolved
+a5b17618d38c5f58f124097a79a2a230,2018-02-16,Anna,Weather-related transit delay,resolved
+b72857c2670acb43d3080e4c84aa5a96,2017-04-23,Kathleen,Seller shipped late (missed shipping_limit_date),resolved
+5ac4eee743a86a4f0d1b7ee150d1bb34,2017-12-10,Rita,Warehouse stock discrepancy at seller,escalated_to_seller
+bd54f9327a96271651655fe63b50ec1c,2017-12-13,Scott,Warehouse stock discrepancy at seller,resolved
+a5d11ae16578088b0fcd76de30368bdb,2018-03-21,Cheyenne,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+8d6342c5d498f0042ad00193ce3038c8,2017-10-14,William,Warehouse stock discrepancy at seller,resolved
+146f79f564602aa6bf9ecbd760651c7f,2017-04-30,William,Carrier delay - regional logistics disruption,resolved
+6954f8261ff8147d4f4570c7d65990bd,2018-02-02,Heather,Address/zip code issue caused redelivery,resolved
+b287d35d6e864f28c166376e6c02c9a1,2018-01-23,Shaun,Warehouse stock discrepancy at seller,resolved
+cbc956fc2a27bbc8dc18bd3a27ce7127,2018-03-30,Amanda,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+5a90bdab22ab69f4095415dd55451b66,2017-02-27,Timothy,Address/zip code issue caused redelivery,unresolved
+a4a05d9529999a7a1bfc497a2cb1221a,2018-07-17,Shelly,Seller shipped late (missed shipping_limit_date),resolved
+758480e19da5e5b47ceb7318a5ca77fe,2018-08-23,Holly,No root cause identified - isolated incident,escalated_to_seller
+294bc47f2c556ebbec32a74c4811efd5,2018-03-08,Nancy,Seller shipped late (missed shipping_limit_date),resolved
+e6cdacd5274dbf478d422d7144e0e9b5,2017-10-19,Sheri,Weather-related transit delay,resolved
+ff3024474be86400847879103757d1fd,2017-11-30,Jordan,Carrier delay - regional logistics disruption,resolved
+68c76c01adcebe5c1bd51c0aa817bb76,2018-08-30,Anita,Seller shipped late (missed shipping_limit_date),resolved
+fecda210da4a36546b91948ee43af90d,2018-04-15,Sherry,No root cause identified - isolated incident,resolved
+f5af86a3bea41e5daef5c06e7a02ad2e,2018-08-06,Mary,Carrier delay - regional logistics disruption,unresolved
+ceb533871105f7cda81fafc19e1ee38e,2017-11-05,Derrick,Warehouse stock discrepancy at seller,unresolved
+1aeb7327979c2a19b8f80b9df367d99f,2017-12-13,David,Warehouse stock discrepancy at seller,unresolved
+f9f15e02ed74cf8a21b8266a55498942,2017-11-01,Scott,Seller shipped late (missed shipping_limit_date),resolved
+25f18499b3e850741c120ec6c11fb49a,2018-03-09,Charles,Carrier delay - regional logistics disruption,resolved
+34cea4a1fdf5fefdf4d48d7dafe53911,2017-11-06,John,Carrier delay - regional logistics disruption,escalated_to_seller
+47aa1d8d4f3edcd905a4ec406c3b5ab8,2018-04-07,Charles,Seller shipped late (missed shipping_limit_date),resolved
+e53516f14e3cc830f4afa84315707e9a,2018-02-23,Elizabeth,No root cause identified - isolated incident,resolved
+34688497162fbb53b24e10738f912fa4,2018-08-19,Kristen,Warehouse stock discrepancy at seller,unresolved
+a91fed0c79559403d648c1161a2d8500,2017-11-10,Penny,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+88bf5b4aa46a6a1db2d81f68b8983a42,2018-03-17,Eric,Warehouse stock discrepancy at seller,unresolved
+f6ed6898419c893a57cd88e7dbbdb2c7,2018-03-24,Jennifer,Warehouse stock discrepancy at seller,escalated_to_seller
+a27f3aab93e8f43407c0fe4296f475c1,2018-04-30,Donna,Seller shipped late (missed shipping_limit_date),unresolved
+0691511b757c6190f85d5c20481ddae1,2018-07-31,Douglas,Carrier delay - regional logistics disruption,resolved
+f095f540bdb49344ad5fc17cc494e88e,2017-10-11,Nicole,Carrier delay - regional logistics disruption,escalated_to_seller
+425f411da928aab32cbb846990839737,2018-02-08,Tammy,Carrier delay - regional logistics disruption,escalated_to_seller
+6854558dc4979ad704ccd9ff6a90e628,2017-04-12,Jeffrey,Weather-related transit delay,escalated_to_seller
+c6d53b50b9624bf6575b96607dd5b109,2018-05-27,Stephanie,Weather-related transit delay,escalated_to_seller
+61722dfb39136f50e4e0d9d150176532,2018-02-05,Raymond,Seller shipped late (missed shipping_limit_date),resolved
+f530e66c74816309f2bf8eb5a619b3ab,2017-07-17,Tony,Seller shipped late (missed shipping_limit_date),resolved
+3a8d1da60e589d438a1517f54f3e5f9e,2018-01-22,Veronica,Address/zip code issue caused redelivery,resolved
+c0739e18e44f89c88bfbb497c5f11f52,2018-02-24,Marissa,Address/zip code issue caused redelivery,unresolved
+c539e0e8403e4e2f09aec95e073a9f85,2017-10-06,Evan,Weather-related transit delay,unresolved
+6bc3888289830fea0d2ed7c54501fbea,2017-04-21,Ryan,Address/zip code issue caused redelivery,resolved
+28c0015f84c9d8b6a4e58b0414ab80ab,2018-07-18,Zachary,Warehouse stock discrepancy at seller,resolved
+f16cbac8a72057c2daba4b64662100ba,2018-08-11,Matthew,Address/zip code issue caused redelivery,resolved
+d00fc126358622ba5ae0ba1a334b3bc5,2017-10-28,James,Seller shipped late (missed shipping_limit_date),resolved
+8a795486f112df15565463862960aa40,2018-05-31,Lucas,Customs/regional holiday delay,resolved
+06c1184eaca6e3877347f38cfe926100,2017-12-22,Jennifer,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+5f4c7549b7a52062dbf797ca9344bd54,2018-01-06,Andrew,Weather-related transit delay,unresolved
+e11ced871fd97da835073a98ebacbf23,2018-04-16,Angela,Customs/regional holiday delay,unresolved
+5f5a937b8e63ac95df2db115354de971,2017-12-28,Scott,No root cause identified - isolated incident,resolved
+4af895c94fe197a1da73b4aa9e727831,2017-10-03,Andrew,Weather-related transit delay,resolved
+0c047dd1c8c2fcc61365b5787d59fd6c,2017-10-11,Martin,Address/zip code issue caused redelivery,resolved
+190557ff9eb3797082b5279359cf7bef,2017-12-24,Claire,Warehouse stock discrepancy at seller,unresolved
+44d2850802286aba47ac68220a075bb3,2018-03-06,William,Warehouse stock discrepancy at seller,resolved
+79ac95840d74737ded29fca0a680ed65,2018-04-07,Caleb,Carrier delay - regional logistics disruption,resolved
+21446a89bd1b60e7daab9013a9b1f6de,2018-03-08,Traci,Carrier delay - regional logistics disruption,unresolved
+4e4aa299535ead6fe63a779d539c493d,2018-07-27,Kristina,Address/zip code issue caused redelivery,resolved
+0097f0545a302aafa32782f1734ff71c,2018-03-10,Teresa,Carrier delay - regional logistics disruption,resolved
+4a0d049ee6c82b3348a21bb211c0a44d,2017-06-16,Daniel,Weather-related transit delay,resolved
+c38db22a86ae94a2a5a9dd2d5700f6cb,2018-05-16,Joseph,Weather-related transit delay,resolved
+eb6ab30cb30bdde1094fc3b0ee26a2d9,2018-05-23,Benjamin,No root cause identified - isolated incident,unresolved
+466b52b6a096e514ee88ebaf70d5d2f3,2017-09-01,Kimberly,Seller shipped late (missed shipping_limit_date),unresolved
+4cad7da3634c4f5d4bb0c35b4c056f73,2018-05-15,Joseph,No root cause identified - isolated incident,escalated_to_seller
+72a055afec5322997eace70e9f743482,2018-03-04,David,Seller shipped late (missed shipping_limit_date),resolved
+a2b4be96b53022618030c17ed437604d,2018-08-02,Robert,Carrier delay - regional logistics disruption,resolved
+30e0a586733725ef792f50d33720b961,2017-03-08,Rhonda,No root cause identified - isolated incident,resolved
+787ae1110521f3a8bc19a7ac93b8c914,2018-04-05,Lori,Weather-related transit delay,resolved
+4d28c569c6b1c56550cd20e1240d51cb,2018-06-09,Jonathan,Carrier delay - regional logistics disruption,resolved
+73cafc0c127f9cee457b39b5c0e3fc16,2017-12-03,Edward,No root cause identified - isolated incident,resolved
+fc83eb7b2a806cd7c4ed7abaa9af49e7,2018-08-22,Samantha,Address/zip code issue caused redelivery,resolved
+aac88c8074f903c76fc8616b924ab3e4,2018-08-20,Ashley,Address/zip code issue caused redelivery,resolved
+15db3ee82b2592326fd5390713cf56eb,2018-08-23,Jackie,Address/zip code issue caused redelivery,resolved
+f7220418cd6c36ddfba778a8433e98fa,2018-05-24,Christopher,Weather-related transit delay,resolved
+2429083883078c31cf2337ce0dd425ee,2017-07-21,Brian,No root cause identified - isolated incident,unresolved
+a9957adf297a6be5e8625b3e93329c6d,2017-03-27,Haley,Customs/regional holiday delay,resolved
+3cba655faae78feacf27f20900c776e0,2017-09-30,Ronald,Weather-related transit delay,resolved
+9f484bd34c118fb45ac92da12aa484bc,2018-03-09,Charles,Carrier delay - regional logistics disruption,escalated_to_seller
+6283d2cb264f76928dffd1faf0f5ff33,2017-12-17,Shawna,No root cause identified - isolated incident,resolved
+2b40e7763ce2a2fbeb3e63dd4a498702,2018-02-09,Cynthia,Customs/regional holiday delay,resolved
+f976bd9178b8f3927dbf9f4b5f9e7f16,2018-03-26,Laurie,Warehouse stock discrepancy at seller,resolved
+fa79d81a2b6991398dfaa1bc61b586f3,2018-08-10,Christopher,Warehouse stock discrepancy at seller,resolved
+8ff1992743a7f3a6daffc9ec9db05cbc,2017-06-15,Melissa,Customs/regional holiday delay,resolved
+483561c1a64813ba6588d1fab2f90f61,2017-07-12,Carl,Seller shipped late (missed shipping_limit_date),resolved
+296e1020c48c85d07b3fb22436e3e65b,2017-10-22,Michelle,Carrier delay - regional logistics disruption,resolved
+53354e0184a8a43cd9f722bc2af844cb,2018-03-19,Shawn,Carrier delay - regional logistics disruption,escalated_to_seller
+1126e8ce51fcc395870c8fabcf7de709,2018-08-11,Matthew,Customs/regional holiday delay,unresolved
+564db6e83379512127bc60da803b4a36,2017-12-10,Angela,No root cause identified - isolated incident,unresolved
+fcbb6af360b31b05460c2c8e524588c0,2017-12-14,Sara,Warehouse stock discrepancy at seller,resolved
+a04fb6341ec58dddcf7ecaa4c6322f55,2017-10-24,Joseph,No root cause identified - isolated incident,resolved
+10d68bf5b2b29ed413ad7b19c7c601de,2018-09-01,David,Customs/regional holiday delay,resolved
+377ce1ed905bc4755cc1204e3712fe21,2018-04-08,Alison,Weather-related transit delay,resolved
+3b3c727f2f017c3efa05f74a729727d0,2018-04-05,John,No root cause identified - isolated incident,unresolved
+b34e632947c7a44b7afd9eaee92f7dbb,2017-08-14,Daniel,Weather-related transit delay,resolved
+6f7ea3cb9fdeb4cb0d48e1933d792a56,2018-03-16,Evan,Carrier delay - regional logistics disruption,escalated_to_seller
+a7a9af59fd37637073e26e33f78d015f,2018-08-31,Brent,Weather-related transit delay,resolved
+d1c6fa11a0fb958619647d438f9e4849,2018-07-17,James,Weather-related transit delay,resolved
+a31edef7b507f33a0ed568753097dff0,2018-02-28,Larry,Seller shipped late (missed shipping_limit_date),resolved
+3580fbd460098a41fb19ad93e010e638,2018-03-11,Kevin,Customs/regional holiday delay,unresolved
+70f90f55c4238d2d8b77e1e2b8ee8416,2018-03-22,Katherine,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+f89d1880421bd1f3c80d406a826903a0,2018-09-13,Kelly,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+09db1ec04535cf2bba4a73954a252e41,2018-03-15,Vincent,Warehouse stock discrepancy at seller,unresolved
+97e8d3eb8f48e3610beed991e5f32296,2017-12-09,Gregory,Weather-related transit delay,resolved
+a0f2f8b0523207a13f02225bc812ed23,2018-08-16,Michael,Warehouse stock discrepancy at seller,resolved
+d34f01a9355c71adcc41fbc504e8609f,2018-02-10,Andrew,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+ccd4eb95e68cb64e666ddcb84f8dfb1e,2018-03-27,John,Weather-related transit delay,resolved
+d054a3b4ad29e6dfbf833d1be8ac3779,2017-07-13,Alexis,Customs/regional holiday delay,escalated_to_seller
+9de3ed40082af7692bf48b0a9126b5f9,2017-12-09,Jessica,Warehouse stock discrepancy at seller,resolved
+9fe00e9962846aa199d29a3c3d086afd,2018-05-26,Andrea,Address/zip code issue caused redelivery,escalated_to_seller
+6f04a69509e62866b1837e6a4f22c47f,2017-07-07,Jaime,Weather-related transit delay,resolved
+c2546b80d080e344c3698d9d75bd439f,2018-05-10,Thomas,Seller shipped late (missed shipping_limit_date),resolved
+4605d0821fe434dafe3776fd89aab59b,2018-02-14,Sarah,No root cause identified - isolated incident,unresolved
+c0501d3db0e3b05744f4aa2c83338a43,2018-02-22,Daniel,Weather-related transit delay,resolved
+5ee65ec4982eb4667be9fba3b90fa184,2017-07-12,Lori,Weather-related transit delay,resolved
+fdb8b7471e58dbe1a73f0218723b58e9,2018-08-26,Ryan,Warehouse stock discrepancy at seller,resolved
+302e35ab075da160f3f02ba14e56d918,2018-03-09,Troy,Seller shipped late (missed shipping_limit_date),resolved
+83abd54a97c64e537933fcfe2fe1c666,2018-01-30,Mary,Address/zip code issue caused redelivery,resolved
+83d0857ac987879b479b12fda691870d,2017-12-15,Phillip,Weather-related transit delay,resolved
+c6b9d214855dbd27b6a58f9738425f62,2017-12-09,William,Customs/regional holiday delay,resolved
+31b2fdf38a3bfdf9a67d997242c65ed8,2018-02-21,Gwendolyn,No root cause identified - isolated incident,resolved
+a396a3ced410ba6d02ebb907e5c34530,2017-12-15,Toni,Customs/regional holiday delay,resolved
+4ecf494be87ee7b768460fcbcd0389c8,2018-01-31,Matthew,Carrier delay - regional logistics disruption,resolved
+89d168052a4a2101c7fde7f4e82c3ef8,2017-07-05,Marisa,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+60968a386889fb91ca9c02b4f2eaa9bc,2018-08-24,Jasmine,Carrier delay - regional logistics disruption,resolved
+dbcf37e35ce87b02f0707de96a6b99db,2017-03-16,Cynthia,No root cause identified - isolated incident,escalated_to_seller
+e3667abef962f425cb19e50231a2456f,2018-03-01,Richard,Warehouse stock discrepancy at seller,resolved
+8835bc08d0bba62b3f65c7903126fa49,2018-08-25,Michael,Carrier delay - regional logistics disruption,resolved
+8cb5fe50fcb1a1155fa2f27857895eaf,2017-12-27,Brian,Warehouse stock discrepancy at seller,escalated_to_seller
+b9e186a6d042725eb24122a767ea7063,2018-03-25,David,Weather-related transit delay,resolved
+2701d162dabcb83a27f19ae30e8fea47,2017-03-30,Chad,Weather-related transit delay,unresolved
+249ff875b152ea3c750e1d42cfee893a,2018-06-09,Joyce,Weather-related transit delay,escalated_to_seller
+bf1884f9aca840a9b8738d4bef0945b0,2018-08-14,Jonathan,Weather-related transit delay,unresolved
+b6bc67fe4d4fbc4307eafa56be5e4fdd,2017-12-23,Frank,Weather-related transit delay,resolved
+d6bf93d827293f0b9a1582be0719a1e3,2017-10-15,Christopher,Carrier delay - regional logistics disruption,escalated_to_seller
+2aa928af8787409a83b25d8dd89be295,2017-12-29,Maureen,Address/zip code issue caused redelivery,resolved
+710f0ad82f53b85ba2348698d18c89db,2017-12-16,Monica,Weather-related transit delay,resolved
+35df2a75e8f319d4fe179f529613d23d,2018-08-25,Ellen,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+855ae4582654ba4a199f982c721df826,2018-02-19,Julian,Seller shipped late (missed shipping_limit_date),resolved
+707977c86502593ef9aa22201fbcbde5,2018-03-09,John,Customs/regional holiday delay,escalated_to_seller
+5e42950b6aa90d698e75af4e41641386,2017-05-16,Kelly,Warehouse stock discrepancy at seller,escalated_to_seller
+b9230771a7ecccb578891ecdf1879527,2017-12-15,Stephen,Weather-related transit delay,resolved
+28c9cde35b3af2a32c1371a199bf7ce5,2018-06-10,Eric,Address/zip code issue caused redelivery,resolved
+848ab881c02107858764faed825d804b,2018-04-06,Sean,No root cause identified - isolated incident,escalated_to_seller
+b576609c7e4498a76216cb240c177328,2018-09-03,Jose,Carrier delay - regional logistics disruption,resolved
+6f8f0e3ba6fb99d979b8db8728b6a385,2017-07-21,Suzanne,Seller shipped late (missed shipping_limit_date),resolved
+6ffcafc5934324a01c7758dde8a28513,2018-04-22,Teresa,Warehouse stock discrepancy at seller,resolved
+ef8ab3e652b44dfe541199dc0b9f5d09,2018-03-06,Amy,No root cause identified - isolated incident,unresolved
+fd04fa4105ee8045f6a0139ca5b49f27,2017-05-01,John,Warehouse stock discrepancy at seller,resolved
+dc5ba59adf78a3c3f5707f5bc83ca234,2018-03-11,Tammy,Warehouse stock discrepancy at seller,resolved
+04626f2c41e6a49d4c2102a7d410797a,2017-12-22,Kyle,No root cause identified - isolated incident,resolved
+727f1697a6e0fd3018c8ad97fb33be71,2017-12-04,Michael,Address/zip code issue caused redelivery,escalated_to_seller
+3c12bc6e3b1b88c14e55b9c38fddecf6,2017-12-17,Aaron,Seller shipped late (missed shipping_limit_date),resolved
+c6a9052634caae576f272ecf2e3a9b1e,2018-03-21,Patrick,Warehouse stock discrepancy at seller,resolved
+ca29aec188eb04a764fce98c6f69232c,2017-12-22,Thomas,Address/zip code issue caused redelivery,resolved
+e88f99d9e433a6a8968b38b7dd55b080,2018-02-01,Wesley,Address/zip code issue caused redelivery,escalated_to_seller
+e5f19a5270a65dd6e5deb65c0b16d719,2018-03-20,James,Carrier delay - regional logistics disruption,resolved
+d30c22b84ba5239f2ae0fc078be7611c,2018-07-30,William,Customs/regional holiday delay,escalated_to_seller
+6029993caca02acb59d23ffc0f88604c,2018-03-29,Adam,Weather-related transit delay,resolved
+87fdbf51d1ca05cd443a8cbc44c1f5ee,2017-11-15,Joseph,Address/zip code issue caused redelivery,resolved
+1950d777989f6a877539f53795b4c3c3,2018-03-03,Christopher,Address/zip code issue caused redelivery,escalated_to_seller
+80aa51679b1fef5a66ee92a688e44fa3,2017-12-12,Reginald,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+9a14984b8e92e2c06592b0de08ae9fb3,2018-03-22,Bobby,Seller shipped late (missed shipping_limit_date),resolved
+896fbd78a9ef3839b34b893f48f6bc67,2018-05-21,Andrew,No root cause identified - isolated incident,resolved
+c982c1af10010b2f227a2ceb69a994fa,2018-03-16,Kevin,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+46eb75885eca03736c4188871c0a9ba3,2018-02-23,Jesse,Warehouse stock discrepancy at seller,resolved
+23beb6d4a25c4ec53f57dab654990dab,2017-12-30,Brenda,Address/zip code issue caused redelivery,escalated_to_seller
+418dd833928c4570f94442ef4c76e55e,2018-06-03,Allison,Address/zip code issue caused redelivery,unresolved
+c47e4de55f6735f7ddc4c6026769d569,2018-03-25,Karen,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+4266ef14bd1c34c83c3c54ff7ad2f215,2017-12-31,Diane,No root cause identified - isolated incident,resolved
+5b90b7cd9f630bcd19a1c11018344276,2018-03-11,Jennifer,Weather-related transit delay,escalated_to_seller
+0a245a02fe848f9fe7d36aba3f785d78,2018-06-03,Natasha,Customs/regional holiday delay,resolved
+3d7843619ba9dab89ba9aa58cfa11e31,2017-04-24,Perry,Carrier delay - regional logistics disruption,resolved
+51192863a004d47d0e4f5bf5384bf88f,2018-03-01,Mark,Seller shipped late (missed shipping_limit_date),resolved
+1d50a1ce4cf6a22155891f66fb4117b0,2017-12-09,Traci,Customs/regional holiday delay,escalated_to_seller
+b779a9b1774b12944ab77d39b831f151,2018-09-06,Edward,Warehouse stock discrepancy at seller,resolved
+40969a63dab14f62173be9affecb17d4,2017-11-23,Jennifer,Seller shipped late (missed shipping_limit_date),resolved
+8f28ec50f5b8025bd728c535fbd7eacd,2017-05-13,Dawn,Carrier delay - regional logistics disruption,resolved
+15044169648e6a6e9b1ffe21405b6391,2017-12-22,Bradley,Address/zip code issue caused redelivery,resolved
+3784bc92c8ff0ca207ed55629e5df7e9,2018-07-26,Mary,No root cause identified - isolated incident,resolved
+ff5b7f440481674b38554434638beebf,2018-09-09,Patricia,Warehouse stock discrepancy at seller,resolved
+c9d89b0c3d42591ac04fa956aef8fd14,2018-05-26,Courtney,Seller shipped late (missed shipping_limit_date),resolved
+2e429ae793d0065e4efbe7040c5e3203,2018-06-04,Jessica,Address/zip code issue caused redelivery,resolved
+ba20c230064f86c3a1c764fe3cf7ce8a,2017-12-28,Lisa,Carrier delay - regional logistics disruption,unresolved
+4cfc21861f949b1bb4f23340193a2138,2018-05-13,Donald,No root cause identified - isolated incident,resolved
+92de9d50e681619c103a7634c2f8bdaf,2018-08-23,Alexandra,No root cause identified - isolated incident,escalated_to_seller
+d74791c08aaa52d2224fb2486e311413,2018-05-29,William,No root cause identified - isolated incident,resolved
+aa9113495d5498b01ea4a235c64f2849,2017-09-22,Mary,Customs/regional holiday delay,unresolved
+bfdfa2b4742c41cf4853fd72cf7c9815,2017-09-28,Linda,Warehouse stock discrepancy at seller,unresolved
+b4d46147f1aaa1a984aa0ab1cd7b2e4c,2017-12-05,Margaret,Weather-related transit delay,unresolved
+e3e1b813f658feb4bc2c345bc2d399f5,2017-06-17,Brandy,No root cause identified - isolated incident,resolved
+557e7ed9b11b0dd74545009ef0c7a74c,2018-08-16,Patricia,Customs/regional holiday delay,resolved
+89ddf23f8fe73ace16b54d219a527277,2018-02-14,Felicia,Carrier delay - regional logistics disruption,escalated_to_seller
+525c4dbcaecd35a5fac2e4053589df08,2018-03-23,Heather,Warehouse stock discrepancy at seller,resolved
+853fdd4f5504e5f2c286e302f0047f4f,2018-05-13,Jerry,Customs/regional holiday delay,resolved
+cd1c59db504eaebe7f53d4cb13b5dc1a,2017-11-30,Anthony,Customs/regional holiday delay,escalated_to_seller
+298b961b82fd30c53433ae821ba75aa9,2018-08-01,Dean,Carrier delay - regional logistics disruption,escalated_to_seller
+670e3b20191d3198a76069c8f9b12355,2017-02-22,Michael,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+41c291a561e0257e25d6a75037e5a6a1,2017-12-06,Daniel,Customs/regional holiday delay,resolved
+fc7ff0e22c4d9fc5789816ee0131296b,2018-06-02,Mary,Warehouse stock discrepancy at seller,resolved
+58b198357d2b68044f885a370a585ff3,2017-04-25,Angelica,No root cause identified - isolated incident,resolved
+2690c84e60cbc597c732d126472db7cc,2018-02-17,Courtney,Weather-related transit delay,unresolved
+70337534367fb81be994632264ee8f9e,2018-03-18,Connie,Weather-related transit delay,resolved
+484e9a27d27ffe9d45ed4469cb357475,2018-03-21,Erin,Address/zip code issue caused redelivery,escalated_to_seller
+4a71c671955d20b872ceb6758387a3e5,2017-12-16,Tracy,Weather-related transit delay,resolved
+9eac94dce77597b831e8c0dfc584bc8b,2018-01-28,Aaron,Weather-related transit delay,resolved
+4a2d2e4b9b76f135b1e266f10d8de0ac,2018-03-01,Lauren,Weather-related transit delay,resolved
+e73eb0a2c088eec6c479d66ac0d910f0,2018-03-01,Kaitlin,Warehouse stock discrepancy at seller,resolved
+591d010258be8e3bc48d82503022a507,2018-06-06,Wesley,No root cause identified - isolated incident,resolved
+34fa15662de2057126fbb0b0f1c1120f,2017-12-18,Amanda,Customs/regional holiday delay,escalated_to_seller
+2c3a5e5f5bc3ae78ed5748461e62d47d,2018-01-31,Donna,Carrier delay - regional logistics disruption,resolved
+f30e9b83b1b7557b48c20dc8cf2e383f,2017-07-25,Carl,Weather-related transit delay,resolved
+525e11b26fdb7f41471d289897d0f6da,2017-04-19,Jillian,Carrier delay - regional logistics disruption,resolved
+aac634f35cf463dc4251abaa15e604e7,2018-04-12,Johnny,Customs/regional holiday delay,unresolved
+cc1ddc7d7f30076a8cf87d86eecd6606,2018-03-31,Charles,No root cause identified - isolated incident,resolved
+5bca61e411c4fcce08327a8efc371911,2018-06-27,Joseph,Customs/regional holiday delay,resolved
+0d694d4d413750922e42f63577896916,2017-12-12,Jessica,Address/zip code issue caused redelivery,unresolved
+869997fbe01f39d184956b5c6bccfdbe,2018-10-02,Jamie,No root cause identified - isolated incident,resolved
+f3b71bda51bcde2c100176e4932c4492,2018-07-08,Jodi,Address/zip code issue caused redelivery,escalated_to_seller
+2b36fe8c73edb9af80b2d3e73b46122a,2018-03-14,Theresa,Address/zip code issue caused redelivery,unresolved
+6c1d10d32b895709c06d162678e6bac6,2018-05-26,Troy,No root cause identified - isolated incident,unresolved
+99aa87bbe1515eb7af7c662a11e95436,2017-11-29,Patrick,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+53ee943d0767c9dc3922938b2550ab26,2017-09-18,Timothy,Address/zip code issue caused redelivery,resolved
+9bb19b2b2a14bfd567fa37c747c6dc96,2017-11-03,Gabriela,Weather-related transit delay,resolved
+b87ca4e0ff52f4243bebeb16504f48e5,2017-04-28,Katie,Warehouse stock discrepancy at seller,resolved
+1620c790cd0d6a55f4f5c3922764c96a,2018-03-12,Christina,Customs/regional holiday delay,unresolved
+bd414233109bf4490d08e418ca8b3226,2018-02-16,Dawn,Warehouse stock discrepancy at seller,unresolved
+1ca88ffec09fd363aa4aa1cb994c851d,2018-03-16,Chris,Customs/regional holiday delay,resolved
+6c636e8cee90bf0aac0ec71c90f873e3,2017-09-21,Dylan,Carrier delay - regional logistics disruption,resolved
+d2ce7421730f81ac57551e623ed3522d,2017-05-06,Jonathan,No root cause identified - isolated incident,escalated_to_seller
+69fd1a4dd8b96b9ab0dc82b95be21efd,2018-08-24,Julia,No root cause identified - isolated incident,resolved
+77e8385bf150ad151fe3fac0f5acfe8d,2018-04-14,Kevin,Warehouse stock discrepancy at seller,unresolved
+4e0158c628911a5f52cfbc38242c0d08,2018-02-19,Ashley,Warehouse stock discrepancy at seller,resolved
+8c23f60e51f9e3aec7d9e0c07fa3d8f1,2018-03-29,Alexander,Weather-related transit delay,unresolved
+12a1bc73d4736fdb9a60a8c58d9628b7,2017-09-07,Bruce,Seller shipped late (missed shipping_limit_date),resolved
+31e20f393d978aab31a2c05963f156a3,2018-05-13,Joseph,Customs/regional holiday delay,resolved
+f9d90a312f7c442297e418dbf9564475,2017-10-25,Emily,Weather-related transit delay,resolved
+96bb1f97b225fb91cdfced5bbae3166e,2018-08-09,Heather,Customs/regional holiday delay,resolved
+f562fcbc87b8916bfaad4dc4a8db933c,2017-08-31,Emma,Carrier delay - regional logistics disruption,resolved
+4d9974c8797599512e8216eeb315817d,2018-01-19,Kelly,No root cause identified - isolated incident,resolved
+4317fe882d992cda2fb3d51baeb2751c,2017-10-29,Zachary,Weather-related transit delay,resolved
+0005a1a1728c9d785b8e2b08b904576c,2018-04-02,Steven,Seller shipped late (missed shipping_limit_date),escalated_to_seller
+f01954cab76ef5d938d291d2f1d201e5,2017-04-20,Steven,Address/zip code issue caused redelivery,resolved
+847a065b23a7d02398792f10f38a9b12,2018-04-21,David,Warehouse stock discrepancy at seller,unresolved
+327eb42fa668b532239f44713415a37a,2018-03-29,Patricia,Customs/regional holiday delay,unresolved
+66e4a36ff490014773971a6ee0b6a0e4,2017-07-11,James,Carrier delay - regional logistics disruption,resolved
+8757dc05fefc469b988804e017319c10,2018-05-24,Tiffany,Warehouse stock discrepancy at seller,escalated_to_seller
+1d41e51a91eda6adf4505b3c15cf6068,2017-12-26,Sharon,Carrier delay - regional logistics disruption,resolved
+71145a0b672202052255b5463b5ae691,2018-05-31,Andre,Warehouse stock discrepancy at seller,unresolved
+d1b4fc9a8c1207433519a8ec52e2d03f,2018-05-17,Stephen,Customs/regional holiday delay,escalated_to_seller
+c24b8b41e6857d59a27f2b150bb669d9,2018-04-05,Lori,Carrier delay - regional logistics disruption,resolved
+352d96ca187708670e0f8ec35af10421,2018-06-14,Tammy,Customs/regional holiday delay,resolved
+4cf27cd829748acdd11dfe19fe746e8b,2018-02-21,Shannon,Weather-related transit delay,resolved
+3f5bef65e86c9d1a2c8ff430a74cc202,2018-04-29,Joseph,Carrier delay - regional logistics disruption,resolved
+489b43fc6f7840318ee5d83ee35b86c1,2017-03-14,Jason,No root cause identified - isolated incident,resolved
+d974607c57ca915767ed00355b0a7bcb,2018-08-11,Sonya,No root cause identified - isolated incident,resolved
+f73d73f08d9e97a496861a69bf371880,2017-03-01,Jason,Customs/regional holiday delay,resolved
+e11dbf8f73df2ef44ac68c5dd90b3892,2018-08-27,Bonnie,Weather-related transit delay,unresolved
+a4a57f1ffa25b90dea9f150fee89db84,2017-09-18,Donald,Customs/regional holiday delay,resolved
+33d949de3be3df6e3cf017b6ec4aae4c,2018-03-13,Alexandria,Address/zip code issue caused redelivery,resolved
+c74781be12a00f1e31f7160673c27190,2017-04-05,Stephanie,Address/zip code issue caused redelivery,unresolved
+abb4cbba2c83f7cabc85e45374a23ad4,2017-12-15,David,Customs/regional holiday delay,resolved
+234c056c50619f48da64f731c48242b4,2018-08-20,Lori,Weather-related transit delay,resolved
+1b0816f005179796807a9b23f4c2df11,2018-03-05,William,Carrier delay - regional logistics disruption,resolved
+607cf95d7f8a8c1590f421fecdf0d95c,2017-12-10,Olivia,Weather-related transit delay,unresolved
+d6a55340021ebcaf3b321d5a34c6c31e,2018-07-16,Jacqueline,Customs/regional holiday delay,resolved
+6eb2780615aa0cfbaaef6c8d0aec411a,2018-02-05,Jesse,Weather-related transit delay,unresolved
+542a75015e9fb10f090ea35b36cb470d,2018-04-05,Rachael,No root cause identified - isolated incident,escalated_to_seller
+c5a06d75e7ddf0ed779053a64ee08c7e,2018-02-07,Todd,Carrier delay - regional logistics disruption,resolved
+4c9147aeea82dddeeff09c3a170a4820,2017-06-29,Angel,Warehouse stock discrepancy at seller,escalated_to_seller
+479c3d9dbad0a2c502fcb73fd59c65b3,2018-03-17,Adam,Weather-related transit delay,resolved
+357e26bc92e720c2b487e879d07506d7,2018-03-06,Travis,No root cause identified - isolated incident,resolved
+186d3cd768be1890d832106f914ba37c,2017-06-25,Shannon,Weather-related transit delay,resolved
